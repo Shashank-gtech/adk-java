@@ -28,6 +28,7 @@ let CONSTANT_VALUES = {
       DUPLICATE: 'duplicate',
       GITHUB: 'github',
       NEEDS_UPDATE: 'needs update',
+      NEEDS_REVIEW: 'needs review',
       READY_TO_PULL: 'ready to pull'
     },
     STATE: { CLOSED: 'closed' },
